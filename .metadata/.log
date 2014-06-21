@@ -1,0 +1,83 @@
+!SESSION 2014-06-08 11:17:23.704 -----------------------------------------------
+eclipse.buildId=v22.2.0-822323
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-06-08 11:17:59.990
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-06-08 11:28:16.111 -----------------------------------------------
+eclipse.buildId=v22.2.0-822323
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-06-08 11:28:21.640
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 4 4 2014-06-08 12:10:49.817
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.ProblemView.
+!SESSION 2014-06-08 12:55:31.859 -----------------------------------------------
+eclipse.buildId=v22.2.0-822323
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-06-08 12:55:40.652
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-06-12 11:43:53.419 -----------------------------------------------
+eclipse.buildId=v22.2.0-822323
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-06-12 11:44:07.793
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-06-13 18:45:06.044 -----------------------------------------------
+eclipse.buildId=v22.2.0-822323
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-06-13 18:45:22.270
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-06-13 18:49:41.204 -----------------------------------------------
+eclipse.buildId=v22.2.0-822323
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-06-13 18:49:46.546
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-06-20 19:03:03.714 -----------------------------------------------
+eclipse.buildId=v22.2.0-822323
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-06-20 19:03:38.777
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-06-21 10:19:32.056 -----------------------------------------------
+eclipse.buildId=v22.2.0-822323
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -keyring /Users/pratik/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-06-21 10:19:47.362
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
